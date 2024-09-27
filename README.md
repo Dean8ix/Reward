@@ -1,4 +1,4 @@
-# Airdrop Smart Contract
+# Reward
 This smart contract handles an airdrop event, allowing participants to register, play a game, and receive token rewards based on their performance. The contract integrates Chainlink's VRF (Verifiable Random Function) to ensure fairness in the random selection process.
 
 ## Features
